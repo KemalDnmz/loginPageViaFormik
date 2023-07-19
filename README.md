@@ -1,5 +1,5 @@
 # loginPageViaFormik
-- This is a login page example. I have used react and formik here
+- This is a frontend login page example. I have used react and formik here
 
 # Required dependencies
 - npm install formik --save
